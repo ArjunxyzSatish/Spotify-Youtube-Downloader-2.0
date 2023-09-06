@@ -1,4 +1,4 @@
-# SaveThatSong
+# SaveThatSong 2.0
 
 This python script lets you:
 
